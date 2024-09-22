@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Siphokazi! 👋
+ A passionate Front-End Developer | Software Engineer. I love creating dynamic, responsive web applications and diving into the world of cloud computing.
+
+🌱 Currently Learning:
+
+🛡️ Foundations of Cybersecurity @ Coursera <br>
+🎓 CS50x - Introduction to Computer Science @ HarvardX <br>
+💻 Software Engineering @ Melsoft Academy<br>
+
+![Siphokazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naledimuhauli&show_icons=true&theme=radical)
+
 
 <!--
 **naledimuhauli/naledimuhauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
