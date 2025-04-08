@@ -1,11 +1,17 @@
 # Hi, I'm Siphokazi! 👋
  A passionate Front-End Developer | Software Engineer. I love creating dynamic, responsive web applications and diving into the world of cloud computing.
 
-🌱 Currently Learning:
+## 🎓 Education
 
-🛡️ Foundations of Cybersecurity @ Coursera <br>
-🎓 CS50x - Introduction to Computer Science @ HarvardX <br>
-💻 Software Engineering @ Melsoft Academy<br>
+- 🎓 **Software Engineering** – *Melsoft Academy*  
+- 🌐 **Front-End Development** – *SheCodes*
+
+---
+
+## 🌱 Currently Learning
+
+- 🛠️ **Systems Development** – *Dynamic DNA*   
+- 💡 **CS50x: Introduction to Computer Science** – *HarvardX*
 
 
 # 💻 Tech Stack <br>
